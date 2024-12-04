@@ -1,0 +1,278 @@
+{
+  "main": {
+    "id": "527a3901cd55efe6",
+    "type": "split",
+    "children": [
+      {
+        "id": "769d4ab5a6ed8794",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b0924085fd1ab4c2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Books/DDIA/Chapters/Ch01_Foundations.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Ch01_Foundations"
+            }
+          },
+          {
+            "id": "261267adaf841f39",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Books/DDIA/Weekly_Reviews/Week2_Review.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Week2_Review"
+            }
+          },
+          {
+            "id": "e46ba57fd8a618e0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Books/DDIA/Weekly_Reviews/Week2_Review.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Week2_Review"
+            }
+          },
+          {
+            "id": "d41d6cd89b1a2a24",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Books/DDIA/Weekly_Reviews/Week2_Review.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Week2_Review"
+            }
+          },
+          {
+            "id": "2107ce5148debe28",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Books/DDIA/Weekly_Reviews/Week1_Review.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Week1_Review"
+            }
+          },
+          {
+            "id": "7495543d5109fe3c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Books/DDIA/Chapters/Ch02_Data_Models.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Ch02_Data_Models"
+            }
+          },
+          {
+            "id": "204650043efaab01",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Books/DDIA/Chapters/Ch01_Foundations.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Ch01_Foundations"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "b8eb89249ed250a9",
+    "type": "split",
+    "children": [
+      {
+        "id": "3a4a30d17b2e4cbf",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "62b4204af4b4a19d",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "32bad97295ba0c6e",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "8abad956ac83985e",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "575128f04132ac08",
+    "type": "split",
+    "children": [
+      {
+        "id": "ab796fba000bfd73",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e7ea39ca49e6baa9",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Books/DDIA/Chapters/Ch01_Foundations.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Ch01_Foundations"
+            }
+          },
+          {
+            "id": "36d46ada9b9212d0",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Books/DDIA/Chapters/Ch01_Foundations.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Ch01_Foundations"
+            }
+          },
+          {
+            "id": "e22f546e17df5be9",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "49a5e54f83aad008",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Books/DDIA/Chapters/Ch01_Foundations.md"
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Ch01_Foundations"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "62b4204af4b4a19d",
+  "lastOpenFiles": [
+    "Books/DDIA/_Index.md",
+    "Books/DDIA/Weekly_Reviews/Week3_Review.md",
+    "Books/DDIA/Weekly_Reviews/Week2_Review.md",
+    "Weekly_Reviews/Week3_Review.md",
+    "Weekly_Reviews",
+    "Weekly_Review/Week3_Review.md",
+    "Weekly_Review",
+    "weekly_Review/week3_Review.md",
+    "weekly_Review",
+    "Books/DDIA/Weekly_Reviews/Week1_Review.md",
+    "Books/DDIA/Chapters/Ch02_Data_Models.md",
+    "Untitled.md",
+    "Books/DDIA/Templates/Chapter_Template.md",
+    "Books/DDIA/Templates/Weekly_Review_Template.md",
+    "Books/DDIA/Chapters/Ch01_Foundations.md",
+    "Ch01_Foundations.md",
+    "Books/DDIA/Chapters",
+    "Books/Chapter 1.md",
+    "Welcome.md",
+    "Ch02_Data_Models.md",
+    "Books/DDIA/Templates",
+    "Untitled",
+    "Books/DDIA/Weekly_Reviews",
+    "Templates",
+    "Tags",
+    "Books/DDIA"
+  ]
+}
